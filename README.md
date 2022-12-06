@@ -3,7 +3,7 @@
 <!-- ABOUT -->
 ## About the project
 
-Geometry Basic by Java
+Geometry Basic by using Java
 This repository is an attempt to implement some basic geometric functions in Java.  
 The main class, Geometry, implements some functions that can be used to calculate the area and perimeter of shapes.
 For example, various shape of Squares, Triangle and Circle.
